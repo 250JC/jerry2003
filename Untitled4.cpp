@@ -41,6 +41,5 @@ int a=0;
 	for(i=0;i<w2;i++)delete [] r[i];
 	delete [] r;
 	delete [] q;
-    cout<<"hi";
     return 0;
 }
